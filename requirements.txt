@@ -1,0 +1,8 @@
+user has to be well versed with the following libraries to efficiently workout these modules as this is an advanced course:
+1.numpy
+2.pandas
+3.matplotlib
+4.scikit-optimize
+5.tqdm
+6.seaborn
+7.scikit-learn
