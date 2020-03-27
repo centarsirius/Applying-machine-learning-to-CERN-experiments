@@ -6,3 +6,4 @@ user has to be well versed with the following libraries to efficiently workout t
 5.tqdm
 6.seaborn
 7.scikit-learn
+some basic data analysis techniques
