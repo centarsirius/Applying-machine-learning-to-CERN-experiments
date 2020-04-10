@@ -4,7 +4,7 @@ The goal is to design prediction model that will give best score (ROC AUC) and w
 - similar performance on simulated and real data (agreement check)
 - decorrelation with the mass (correlation check)
 
-## in other words, the goal is to develop an algorithm for searching for rare decay that should never happen according to the Standard Model.
+**In other words, the goal is to develop an algorithm for searching for rare decay that should never happen according to the Standard Model.**
 
 Data files can be found here https://github.com/hse-aml/hadron-collider-machine-learning/releases/tag/Week_3
 
